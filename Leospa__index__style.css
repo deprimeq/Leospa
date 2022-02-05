@@ -404,15 +404,15 @@ main {
   height: 50%;
 }
 .service__inner .service__item:nth-child(1) .service__img {
-  background: url("Leospa__assets/post-1.jpg") center no-repeat;
+  background: url("post-1.jpg") center no-repeat;
   background-size: cover;
 }
 .service__inner .service__item:nth-child(2) .service__img {
-  background: url("Leospa__assets/post-2.jpg") center no-repeat;
+  background: url("post-2.jpg") center no-repeat;
   background-size: cover;
 }
 .service__inner .service__item:nth-child(3) .service__img {
-  background: url("Leospa__assets/post-3.jpg") center no-repeat;
+  background: url("post-3.jpg") center no-repeat;
   background-size: cover;
 }
 .service__inner .service__item .service__textarea {
@@ -578,15 +578,15 @@ main {
   position: relative;
 }
 .team__inner .team__item:nth-child(1) {
-  background: url("Leospa__assets/team-1.jpg") center no-repeat;
+  background: url("team-1.jpg") center no-repeat;
   background-size: cover;
 }
 .team__inner .team__item:nth-child(2) {
-  background: url("Leospa__assets/team-2.jpg") center no-repeat;
+  background: url("team-2.jpg") center no-repeat;
   background-size: cover;
 }
 .team__inner .team__item:nth-child(3) {
-  background: url("Leospa__assets/team-3.jpg") center no-repeat;
+  background: url("team-3.jpg") center no-repeat;
   background-size: cover;
 }
 .team__inner .team__item .team__info {
@@ -678,7 +678,7 @@ main {
 .appointment-table .appointment-table__img {
   min-height: 640px;
   width: 40%;
-  background: url("Leospa__assets/appointment-img.jpg") center no-repeat;
+  background: url("appointment-img.jpg") center no-repeat;
   background-size: cover;
 }
 .appointment-table .appointment-table__inner {
@@ -784,17 +784,17 @@ main {
 }
 .blog__inner .blog__item:nth-child(1) .blog__img {
   height: 200px;
-  background: url("Leospa__assets/post-1.jpg") center no-repeat;
+  background: url("post-1.jpg") center no-repeat;
   background-size: cover;
 }
 .blog__inner .blog__item:nth-child(2) .blog__img {
   height: 200px;
-  background: url("Leospa__assets/post-2.jpg") center no-repeat;
+  background: url("post-2.jpg") center no-repeat;
   background-size: cover;
 }
 .blog__inner .blog__item:nth-child(3) .blog__img {
   height: 200px;
-  background: url("Leospa__assets/post-3.jpg") center no-repeat;
+  background: url("post-3.jpg") center no-repeat;
   background-size: cover;
 }
 .blog__inner .blog__item .blog__main {
